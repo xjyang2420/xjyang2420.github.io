@@ -1,5 +1,5 @@
 ---
-permalink: /enducations/
+permalink: /
 title: "Enducations"
 excerpt: "Enducations"
 author_profile: true
