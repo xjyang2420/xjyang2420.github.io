@@ -9,7 +9,7 @@ redirect_from:
 ---
 New York University
 ===
-* Ph.D. Student (Sep. 2022 - present)
+1. Ph.D. Student (Sep. 2022 - present)
 2. Core Cources: Algorithmic Machine Learning and Data Science; Information, Security and Privacy; Advanced Topics in Applied Mathematical Statistics; Game Theory; State Space Design for Linear Control Systems; Data-Driven Mobility Modeling & Simulation
 
 Shandong University
