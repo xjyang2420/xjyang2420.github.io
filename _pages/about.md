@@ -10,9 +10,8 @@ redirect_from:
 I am a Ph.D. student in the Department of Electrical and Computer Engineering at New York University. I am currently working on the following topics.
 
 1. Agent-Based Decision Making Process with Rational Expectation
-1. Resillian Sattlite Control  
-1. Learning Theory for Multi-agent Systems
-1. Large-scale Optimization and Machine Leanring
+1. Leverage Learnong to Achieve Identification and Conduct Resillian Sattlite Control 
+1. Large-scale Optimization and Machine Leanring (Mean Field Learning)
 
 Lateset News 
 ======
