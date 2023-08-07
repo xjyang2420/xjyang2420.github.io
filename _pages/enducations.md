@@ -5,7 +5,7 @@ excerpt: "Enducations"
 author_profile: true
 redirect_from: 
   - /enducations/
-  - /enducations .html
+  - /enducations.html
 ---
 
 New York University
@@ -18,6 +18,8 @@ Shandong University
 
 
 Shanghai University of Electrcal Power
+1. Bachelor Degree (Sep. 2014 - Jun. 2018)
+2. Core Cources: Mathematics for Control Engineering & Matlab; Automatic Control Theory; Measurement Technology & Instrument; Industry Control Network; Distributed Control System; Control System Analysis & Design; Object-Oriented Programming
 
 
 
