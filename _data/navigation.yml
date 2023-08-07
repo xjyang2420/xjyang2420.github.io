@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Enducations"
+    url: /Enducations/
+
   - title: "Publications"
     url: /publications/
 
