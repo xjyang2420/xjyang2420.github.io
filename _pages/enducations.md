@@ -1,5 +1,6 @@
 ---
-permalink: /
+#permalink: /
+layout: archive
 title: "Enducations"
 excerpt: "Enducations"
 author_profile: true
