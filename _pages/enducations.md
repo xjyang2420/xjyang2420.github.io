@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /enducations/
 title: "Enducations"
 excerpt: "Enducations"
 author_profile: true
@@ -18,6 +18,7 @@ Shandong University
 
 
 Shanghai University of Electrcal Power
+
 
 
 
